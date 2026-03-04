@@ -1,4 +1,4 @@
-# due diligence | Investment Property
+# due diligence | Single Family Investment Property
 
 A single-page investment property financial calculator for evaluating single-family rental investments with rehab cost estimation.
 
