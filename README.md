@@ -18,4 +18,4 @@ A single-page investment property financial calculator for evaluating single-fam
 - Smooth scroll-reveal animations
 
 ## Deployment
-Deployed via Netlify Drop: `npx netlify-cli deploy --dir . --prod`
+Hosted on GitHub Pages: https://mal521.github.io/single-family-dd
